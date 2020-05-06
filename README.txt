@@ -3,6 +3,8 @@ Spampede README.txt
 Description:
 
    ** 
+      To access the game file, click on src/
+      
       Click "New Game" to start a new game. Use the keys "i" to move up, "k" to move down, 
       "l" to move right, and "j" to move left. Use the key "a" to turn the snake into AI mode.
       The objective is to eat as much spam and grow as long as possible without hitting a wall
